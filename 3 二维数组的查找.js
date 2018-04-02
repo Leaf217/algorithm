@@ -1,5 +1,4 @@
-function Find(target, array)
-{
+function Find(target, array) {
     let col = array[0].length;
     let row = array.length;
     for (let r = 0;r < row;r++) {

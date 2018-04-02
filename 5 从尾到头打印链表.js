@@ -2,8 +2,7 @@
     this.val = x;
     this.next = null;
 }*/
-function printListFromTailToHead(head)
-{
+function printListFromTailToHead(head) {
     //head为起始点内存空间的地址
     let arr = [];
     while(head) {
