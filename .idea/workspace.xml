@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6923b47-d08b-4031-8f14-c503faa7d0cd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a6923b47-d08b-4031-8f14-c503faa7d0cd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,14 +19,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-              <folding>
-                <marker date="1522681072000" expanded="true" signature="29:407" ph="{...}" />
-                <marker date="1522681072000" expanded="true" signature="122:387" ph="{...}" />
-                <marker date="1522681072000" expanded="true" signature="162:381" ph="{...}" />
-                <marker date="1522681072000" expanded="true" signature="203:247" ph="{...}" />
-                <marker date="1522681072000" expanded="true" signature="286:327" ph="{...}" />
-                <marker date="1522681072000" expanded="true" signature="333:371" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,31 +29,37 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <marker date="1522767307000" expanded="true" signature="38:71" ph="{...}" />
-                <marker date="1522767307000" expanded="true" signature="87:117" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8 *旋转数组的最小数字.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="8 *旋转数组的最小数字.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/8 *旋转数组的最小数字.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
               <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <marker date="1522767351000" expanded="true" signature="45:768" ph="{...}" />
-                <marker date="1522767351000" expanded="true" signature="99:122" ph="{...}" />
-                <marker date="1522767351000" expanded="true" signature="249:732" ph="{...}" />
-                <marker date="1522767351000" expanded="true" signature="286:347" ph="{...}" />
-                <marker date="1522767351000" expanded="true" signature="507:575" ph="{...}" />
-                <marker date="1522767351000" expanded="true" signature="635:677" ph="{...}" />
-                <marker date="1522767351000" expanded="true" signature="683:725" ph="{...}" />
-                <marker date="1522767351000" expanded="true" signature="816:1015" ph="{...}" />
-                <marker date="1522767351000" expanded="true" signature="901:994" ph="{...}" />
-                <marker date="1522767351000" expanded="true" signature="940:988" ph="{...}" />
-              </folding>
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9-1 斐波那契数列.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9-1 斐波那契数列.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9-2 跳台阶.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9-2 跳台阶.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,11 +69,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-              <folding>
-                <marker date="1522681072000" expanded="true" signature="27:241" ph="{...}" />
-                <marker date="1522681072000" expanded="true" signature="136:216" ph="{...}" />
-                <marker date="1522681072000" expanded="true" signature="164:210" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,9 +80,7 @@
             <state relative-caret-position="15">
               <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
               <folding>
-                <marker date="1522681072000" expanded="true" signature="0:67" ph="/*...*/" />
-                <marker date="1522681072000" expanded="true" signature="107:247" ph="{...}" />
-                <marker date="1522681072000" expanded="true" signature="165:229" ph="{...}" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,11 +91,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
-              <folding>
-                <marker date="1522681072000" expanded="true" signature="41:546" ph="{...}" />
-                <marker date="1522681072000" expanded="true" signature="84:527" ph="{...}" />
-                <marker date="1522681072000" expanded="true" signature="365:521" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -131,6 +118,8 @@
         <option value="$PROJECT_DIR$/3 二维数组的查找.js" />
         <option value="$PROJECT_DIR$/7 用两个栈实现队列.js" />
         <option value="$PROJECT_DIR$/8 旋转数组的最小数字*.js" />
+        <option value="$PROJECT_DIR$/9-1 斐波那契数列.js" />
+        <option value="$PROJECT_DIR$/9-2 跳台阶.js" />
       </list>
     </option>
   </component>
@@ -265,11 +254,12 @@
       <workItem from="1522591067314" duration="125000" />
       <workItem from="1522681019999" duration="418000" />
       <workItem from="1522767266700" duration="106000" />
+      <workItem from="1522850658836" duration="129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="649000" />
+    <option name="totallyTimeSpent" value="778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="699" extended-state="0" />
@@ -279,12 +269,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -308,78 +298,16 @@
     <entry file="file://$PROJECT_DIR$/3 二维数组的查找.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1522681072000" expanded="true" signature="29:407" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="122:387" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="162:381" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="203:247" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="286:327" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="333:371" ph="{...}" />
-          </folding>
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4 替换空格.js">
+    <entry file="file://$PROJECT_DIR$/7 用两个栈实现队列.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" lean-forward="true" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-          <folding>
-            <marker date="1522681072000" expanded="true" signature="27:241" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="136:216" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="164:210" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 重建二叉树.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="41" lean-forward="true" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
-          <folding>
-            <marker date="1522681072000" expanded="true" signature="41:546" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="84:527" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="365:521" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 二维数组的查找.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <marker date="1522681072000" expanded="true" signature="29:407" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="122:387" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="162:381" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="203:247" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="286:327" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="333:371" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4 替换空格.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <marker date="1522681072000" expanded="true" signature="27:241" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="136:216" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="164:210" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5 从尾到头打印链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <marker date="1522681072000" expanded="true" signature="0:67" ph="/*...*/" />
-            <marker date="1522681072000" expanded="true" signature="107:247" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="165:229" ph="{...}" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -387,38 +315,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-          <folding>
-            <marker date="1522681072000" expanded="true" signature="27:241" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="136:216" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="164:210" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 重建二叉树.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
-          <folding>
-            <marker date="1522681072000" expanded="true" signature="41:546" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="84:527" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="365:521" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 二维数组的查找.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-          <folding>
-            <marker date="1522681072000" expanded="true" signature="29:407" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="122:387" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="162:381" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="203:247" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="286:327" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="333:371" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -427,9 +324,107 @@
         <state relative-caret-position="15">
           <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
           <folding>
-            <marker date="1522681072000" expanded="true" signature="0:67" ph="/*...*/" />
-            <marker date="1522681072000" expanded="true" signature="107:247" ph="{...}" />
-            <marker date="1522681072000" expanded="true" signature="165:229" ph="{...}" />
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 重建二叉树.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 *旋转数组的最小数字.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 二维数组的查找.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 替换空格.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="true" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 重建二叉树.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" lean-forward="true" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 二维数组的查找.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 替换空格.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5 从尾到头打印链表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 替换空格.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 重建二叉树.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 二维数组的查找.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5 从尾到头打印链表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -438,10 +433,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <marker date="1522767307000" expanded="true" signature="38:71" ph="{...}" />
-            <marker date="1522767307000" expanded="true" signature="87:117" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -449,18 +441,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <marker date="1522767351000" expanded="true" signature="45:768" ph="{...}" />
-            <marker date="1522767351000" expanded="true" signature="99:122" ph="{...}" />
-            <marker date="1522767351000" expanded="true" signature="249:732" ph="{...}" />
-            <marker date="1522767351000" expanded="true" signature="286:347" ph="{...}" />
-            <marker date="1522767351000" expanded="true" signature="507:575" ph="{...}" />
-            <marker date="1522767351000" expanded="true" signature="635:677" ph="{...}" />
-            <marker date="1522767351000" expanded="true" signature="683:725" ph="{...}" />
-            <marker date="1522767351000" expanded="true" signature="816:1015" ph="{...}" />
-            <marker date="1522767351000" expanded="true" signature="901:994" ph="{...}" />
-            <marker date="1522767351000" expanded="true" signature="940:988" ph="{...}" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-1 斐波那契数列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-2 跳台阶.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
