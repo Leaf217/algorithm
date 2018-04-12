@@ -1,4 +1,4 @@
-//没有AC，感觉是系统的事情，大家都表示AC不了
+//没有AC，感觉是牛客网系统的事情，大家都表示AC不了
 function formatDate(oDate, sFormation) {
     var space = sFormation.split(' ');//0：年月日 1：时分秒 2：星期几
     var yMonDay = space[0].split('-');//0：年 1：月 2：日
@@ -30,11 +30,11 @@ function formatDate(oDate, sFormation) {
         w:['日', '一', '二', '三', '四', '五', '六'][day]
     }
 
-    //var output = mapping[yMonDay[0]] + '-' + mapping[yMonDay[1]] + '-' + mapping[yMonDay[2]]
-    //+ ' ' + mapping[hMinSec[0]] + ':' + mapping[hMinSec[1]] + ':' + mapping[hMinSec[2]]
-    //+ ' ' + '星期' + mapping.w;
+    var output = mapping[yMonDay[0]] + '-' + mapping[yMonDay[1]] + '-' + mapping[yMonDay[2]]
+    + ' ' + mapping[hMinSec[0]] + ':' + mapping[hMinSec[1]] + ':' + mapping[hMinSec[2]]
+    + ' ' + '星期' + mapping.w;
 
-    //return output;
+    return output;
     //for(var key in mapping){
     //    sFormation = sFormation.replace(key, mapping[key]);
     //}
