@@ -35,6 +35,7 @@ function formatDate(oDate, sFormation) {
     + ' ' + '星期' + mapping.w;
 
     return output;
+
     //for(var key in mapping){
     //    sFormation = sFormation.replace(key, mapping[key]);
     //}
