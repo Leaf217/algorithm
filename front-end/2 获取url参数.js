@@ -3,7 +3,7 @@ function getUrlParam(sUrl, sKey) {
     var para = url.split('&');
 
     //判断是否有参数
-    if(!url) {
+    if (!url) {
         if (sKey) {
             return "";
         } else {
@@ -14,7 +14,7 @@ function getUrlParam(sUrl, sKey) {
     //判断是否指定参数
     if (sKey) {
         var arr = [];
-        for (var i = 0;i < para.length;i++) {
+        for (var i = 0; i < para.length; i++) {
             var key = para[i].split('=')[0];
             var val = para[i].split('=')[1];
             if (sKey == key) {
@@ -30,7 +30,7 @@ function getUrlParam(sUrl, sKey) {
         }
     } else {//不指定参数
         var obj = {};
-        for (var j = 0;j < para.length;j++) {
+        for (var j = 0; j < para.length; j++) {
             var key = para[j].split('=')[0];
             var val = para[j].split('=')[1];
 
