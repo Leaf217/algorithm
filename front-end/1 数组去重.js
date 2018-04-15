@@ -1,5 +1,5 @@
 Array.prototype.uniq = function () {
-    //垃圾！！！不支持ES6语法，调了半天！！！
+    //不支持ES6语法，调了半天！！！呜呜呜
     //let set = new Set(this);
     //return [...set];
     var newArr = [];
