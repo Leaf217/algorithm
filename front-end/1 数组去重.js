@@ -18,5 +18,3 @@ Array.prototype.uniq = function () {
     }
     return newArr;
 }
-
-
