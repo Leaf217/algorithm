@@ -43,4 +43,3 @@ function getUrlParam(sUrl, sKey) {
         return obj;
     }
 }
-
