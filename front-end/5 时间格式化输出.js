@@ -36,10 +36,10 @@ function formatDate(oDate, sFormation) {
 
     return output;
 
-    //for(var key in mapping){
-    //    sFormation = sFormation.replace(key, mapping[key]);
-    //}
-    //return sFormation;
+    for(var key in mapping){
+       sFormation = sFormation.replace(key, mapping[key]);
+    }
+    return sFormation;
 }
 
 
