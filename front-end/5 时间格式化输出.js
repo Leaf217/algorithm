@@ -28,7 +28,7 @@ function formatDate(oDate, sFormation) {
         ss: ('0' + seconds).slice(-2),
         s: seconds,
         w:['日', '一', '二', '三', '四', '五', '六'][day]
-    }
+    };
 
     var output = mapping[yMonDay[0]] + '-' + mapping[yMonDay[1]] + '-' + mapping[yMonDay[2]]
     + ' ' + mapping[hMinSec[0]] + ':' + mapping[hMinSec[1]] + ':' + mapping[hMinSec[2]]
