@@ -11,7 +11,6 @@ function formatDate(oDate, sFormation) {
     var minutes = oDate.getMinutes();//返回0-59，举例：14
     var seconds = oDate.getSeconds();//返回0-59，举例：20
     var day = oDate.getDay();//返回0-6，分别代表周日-周六
-
     var mapping = {
         yyyy: year,
         yy: year % 100,
